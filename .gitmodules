@@ -2,3 +2,8 @@
 	path = Jarsa/transport-management-system
 	url = git@github.com:Jarsa/transport-management-system.git
 	branch = 14.0
+
+[submodule "akretion/logistics-center"]
+	path = akretion/logistics-center
+	url = git@github.com:akretion/logistics-center.git
+	branch = 12.0
